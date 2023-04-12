@@ -1,0 +1,29 @@
+#calculator {
+    width: 250px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px auto;
+  }
+  input[type="button"] {
+    width: 55px;
+    height: 55px;
+    font-size: 24px;
+    margin: 2px;
+  }
+  input[type="text"] {
+    width: 206px;
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+
+ #calculator input:last-child{
+    width: 96.5%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  #result{
+    width: 96.5%;
+  }
